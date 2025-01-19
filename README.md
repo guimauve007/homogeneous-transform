@@ -1,2 +1,2 @@
 # homogeneous-transform
-Creates homogeneous numpy arrays from translation, scale and scipy rotation matrix
+Creates homogeneous 4x4 numpy arrays from translation, scale and scipy rotation matrix
