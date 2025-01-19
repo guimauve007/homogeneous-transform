@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="homogeneous-transform",                     # Name of the library
-    version="0.1.0",                       # Library version
+    version="0.1.1",                       # Library version
     author="Gérémy Sauvageau",                    # Author's name
     author_email="geremysauvageau@gmail.com", # Author's email
     description="Homogeneous transformation toolbox",
